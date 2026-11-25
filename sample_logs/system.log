@@ -1,0 +1,9 @@
+INFO: System started successfully
+INFO: User logged in
+WARNING: High memory usage detected
+ERROR: Unable to connect to server
+INFO: Backup completed successfully
+ERROR: Disk space is low
+CRITICAL: System service stopped
+WARNING: CPU usage is high
+INFO: System monitoring started
